@@ -1,6 +1,6 @@
 // Dart in list
 
 void main(){
-  List ages = [20, 33, 55];
-  print(ages[1]);
+  List ages = [20, 33, "Hello"];
+  print(ages);
 }
