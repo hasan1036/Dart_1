@@ -1,3 +1,10 @@
+// Dart variables Data type
+
 void main(){
-  print("My name is Hasan");
+
+ String username = "Hasan Ali";
+ int age = 12;
+ double height = 5.7;
+ bool male = true;
+  print("My name is $username and I an $age years old");
 }
