@@ -1,6 +1,11 @@
-// Dart in list
+//Dart in nested list
 
 void main(){
-  List<int> ages = [20, 33, 66];
-  print(ages);
+  List<String> names = ["Hasan", "Rohani", "tanbir", "Jannat"];
+ for(int i = 0; i<=3; i++){
+   //print("Hello $i");
+   //print("${names[0]}");
+   print("Name is : ${names[i]}");
+
+ }
 }
