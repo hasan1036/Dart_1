@@ -10,4 +10,5 @@ void main(){
   print(a/b);
   print(b%a);
   print(sum);
+  print(sum);
 }
