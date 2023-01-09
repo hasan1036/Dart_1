@@ -1,5 +1,5 @@
 void main(){
-  String name = "Hasan";
+  String name = "jannat";
   if(name == "Hasan"){
      print("This is Hasan Ali");
   }else{
