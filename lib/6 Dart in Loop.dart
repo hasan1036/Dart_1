@@ -1,5 +1,8 @@
 void main(){
-  for(int i = 0; i < 100; i++){
-      print(" $i Hello");
-  }
+  int i = 1;
+ while(i<100){
+   print(i);
+
+   i = i+2;
+ }
 }
