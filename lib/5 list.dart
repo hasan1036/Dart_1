@@ -2,5 +2,5 @@
 
 void main(){
   List ages = [20, 33, 55];
-  print(ages);
+  print(ages[1]);
 }
